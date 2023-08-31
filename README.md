@@ -1,0 +1,1 @@
+# gh-multi-pr-templates
